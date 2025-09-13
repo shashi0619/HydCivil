@@ -12,7 +12,7 @@ const Services = () => {
               What we provide
             </h1>
             <h1 className="text-xl sm:text-3xl md:text-4xl mt-1 font-bold">
-              Provide High Quality Software’s Service for All Industry
+              End-to-End Home Inspection Services by Professionals
             </h1>
           </div>
           <div className="lg:ml-auto">
@@ -28,8 +28,8 @@ const Services = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 items-center mt-16">
           <div data-aos="fade-right" data-aos-anchor-placement="top-center">
             <ServiceCard
-              image="/images/s1.png"
-              title="Custom Softwares Development"
+              image="/images/ss1.png"
+              title="Complete Home Inspection"
             />
           </div>
           <div
@@ -38,8 +38,8 @@ const Services = () => {
             data-aos-delay="100"
           >
             <ServiceCard
-              image="/images/s2.png"
-              title="Website Design and Development"
+              image="/images/ss2.png"
+              title="Structural & Civil Checks"
             />
           </div>
           <div
@@ -48,8 +48,8 @@ const Services = () => {
             data-aos-delay="200"
           >
             <ServiceCard
-              image="/images/s3.png"
-              title="Cloud Computing and Hosting Service"
+              image="/images/ss3.png"
+              title="Plumbing & Water Systems"
             />
           </div>
           <div
@@ -58,8 +58,8 @@ const Services = () => {
             data-aos-delay="300"
           >
             <ServiceCard
-              image="/images/s4.png"
-              title="Ai & Machine Learning Integration"
+              image="/images/ss4.png"
+              title="Electrical & Safety Checks"
             />
           </div>
           <div
@@ -68,8 +68,8 @@ const Services = () => {
             data-aos-delay="400"
           >
             <ServiceCard
-              image="/images/s5.png"
-              title="Android & iOS App Development"
+              image="/images/ss7.png"
+              title="HVAC & Appliances Check"
             />
           </div>
           <div
@@ -78,8 +78,8 @@ const Services = () => {
             data-aos-delay="500"
           >
             <ServiceCard
-              image="/images/s6.png"
-              title="3D Graphics & Vector Designing"
+              image="/images/ss6.png"
+              title="Pest & Termite Inspection"
             />
           </div>
         </div>

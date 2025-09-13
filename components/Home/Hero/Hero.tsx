@@ -9,13 +9,15 @@ const Hero = () => {
         <div data-aos="fade-up">
           {/* Subheading */}
           <p className="text-sm sm:text-base md:text-xl font-bold text-white">
-            The Top Software Development Company
+            Your Home, Our Expertise
           </p>
           {/* Heading */}
           <h1 className="text-4xl md:text-5xl lg:text-7xl mt-6 mb-6 font-bold text-white leading-[2.5rem] md:leading-[4rem] ">
-            Providing software solutions for your any{" "}
-            <span className="text-yellow-300"> business</span>
+            #1Hyderabad’s <br />
+            End-to-End  by Certified Experts
+            <span className="text-yellow-300"> Home Inspection</span>
           </h1>
+
           {/* Description */}
           <p className="text-sm sm:text-base font-medium md:text-lg text-gray-300">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
@@ -38,7 +40,7 @@ const Hero = () => {
           data-aos-delay="150"
           className="mx-auto hidden xl:block"
         >
-          <Image src="/images/hero.png" alt="hero" width={900} height={900} />
+          <Image src="/images/Hero2.png" alt="hero" width={900} height={900} />
         </div>
       </div>
     </div>
