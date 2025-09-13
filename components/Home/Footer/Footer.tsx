@@ -20,7 +20,7 @@ const Footer = () => {
               <GrTechnology className="w-6 h-6 text-white" />
             </div>
             <h1 className="text-xl hidden sm:block md:text-2xl text-white font-bold">
-              DevTech
+              MyHomeCheckup
             </h1>
           </div>
           <p className="mt-4 text-gray-200 font-medium">
@@ -66,7 +66,7 @@ const Footer = () => {
           <div className="mt-6">
             <h1 className="text-sm text-white">Our Mobile Phone</h1>
             <h1 className="text-base font-bold text-yellow-300 mt-1">
-              +019838 98234732
+              +910000000000
             </h1>
           </div>
           <div className="mt-6">
@@ -80,7 +80,7 @@ const Footer = () => {
       {/* bottom part */}
       <div className="mt-8 w-[80%] mx-auto border-t pt-8 flex flex-col md:flex-row justify-between items-center text-gray-600 text-sm">
         <p className="text-center text-white md:text-left">
-          Copyright © 2024 Webdev. All rights reserved
+          Copyright © 2025 MyHomeCheckup. All rights reserved
         </p>
         <div className="flex items-center text-white space-x-4 mt-4 md:mt-0">
           <span>Social :</span>
